@@ -1,0 +1,4 @@
+# Análise crítica do filme Jogo da Imitação
+
+Este filme baseia-se na importância do desenvolvimento da criptografia, ou seja, mensagens enviadas em códigos, que eram de grande importância e influência, principalmente retratado na época em questão, onde havia uma guerra e a comunicação era  um fator crucial. Além da mensagem histórica também há fatores sociais envolvidos, como a vida pessoal do criptografo e o preconceito da sociedade.
+É verdade que O Jogo da Imitação tem muitos aspectos positivos em sua produção. A principal delas talvez seja a denúncia das injustiças, da degradação, dos sacrifícios humanos que não só ocupam os campos de batalha, mas que também os manipulam de fora, como peças de xadrez, na segurança de suas escrivaninhas, como se o próprio horror dos conflitos em si já não fosse o bastante. Parece claro, ao término da fita, que a guerra nada mais é do que um reflexo de como e do porquê é concebida.

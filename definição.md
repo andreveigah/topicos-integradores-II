@@ -1,0 +1,3 @@
+# Definição Teste de Turing
+
+Um teste de Turing é um teste executado para determinar a capacidade de uma máquina de exibir um comportamento inteligente. O conceito básico por trás do teste é que se um juiz humano estiver engajado em uma conversa em linguagem natural com um computador onde ele não pode distinguir com segurança a máquina do humano, a máquina passa no teste. As respostas de ambos os participantes da conversa são recebidas na forma de um canal apenas de texto. Este teste foi introduzido por Alan Turing em 1950.
