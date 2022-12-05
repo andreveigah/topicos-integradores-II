@@ -18,9 +18,9 @@ Exemplo: testes automáticos criados para darem entradas e conferirem saídas a 
 
 Benefícios: encontrar problemas o quanto antes, facilitam a mudança da unidade, simplificam a integração e melhoram a documentação.
 
-# O que são testes automatizados?
+# O que são testes instrumentados ? 
 
-De maneira simples, os testes automatizados são definidos como programas que realizam testes em softwares que estão em construção de modo padronizado, sem que seja necessária a intervenção humana. Isso porque eles contam com funcionalidades que são capazes de testar automaticamente todos os aspectos de uma plataforma, a fim de garantir um desempenho adequado.
+São testes que são executados num emulador, por uma instrumentação pelo android instrumentation, é possível ter acesso a informações sobre a aplicação, dando a possibilidade de controlá-la, da forma desejada, se necessária. Como exemplo, nós podemos verificar se alguma informação foi logada, se algum componente está na tela, como é o caso de um botão ou cartão, e fazer ações em cima desse componente.
 
 # Escolha uma pirâmide de testes e descreva com suas palavras cada secção da pirâmide.
 
